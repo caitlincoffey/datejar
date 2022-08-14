@@ -1,0 +1,2 @@
+# datejar
+Date idea generator
